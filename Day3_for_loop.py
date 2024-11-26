@@ -6,3 +6,7 @@ num=2
 for i in range(1,11):
    print(f"{num*i}")
       
+# author sreelakshmi Rajesh
+for i in range(1, 11):
+    print(f"{number} × {i} = {number * i}")
+
