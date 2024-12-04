@@ -1,8 +1,7 @@
-
+#author shrisant
 days = ['Monday', 'Tuesday', 'Wednesday', 'Friday', 'Saturday']
 days.append('Sunday')
-days = days[:3] + ['Thursday'] + days[3:]
-#author shrisant 
+days = days[:3] + ['Thursday'] + days[3:] 
 print(days)
 
 
