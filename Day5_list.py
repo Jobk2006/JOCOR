@@ -13,5 +13,5 @@ print("Updated list of days:", days)
 days=['Monday','tuesday','wednesday','friday','saturday']
  days.append('sunday')
   print (sunday)
- days.insert(3,'thursday'(
+ days.insert(3,'thursday')
   print(days)
